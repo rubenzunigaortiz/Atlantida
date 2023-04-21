@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#ECECEC</color>
+    <color name="purple_500">#ECECEC</color>
+    <color name="purple_700">#ECECEC</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorAmarillo">#ffb71c</color>
+    <color name="colorVerde">#74AE05</color>
+    <color name="colorBlanco">#FFFFFF</color>
+    <color name="colorAzul">#0568AE</color>
+    <color name="colorGris">#ECECEC</color>
+    <color name="fondoFragments">#EEEEEE</color>
+</resources>
